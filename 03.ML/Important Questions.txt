@@ -1,0 +1,19 @@
+Feature engineering on categorical data and image data
+
+PCA with example
+
+Backpropagation with example
+
+Feature scaling with formula and feature selection
+
+SVM - Binary classification
+
+Kernel functions
+
+Ensemble methods(bagging and boosting)
+
+Types of activation functions
+
+Types of networks - feed frwd and feed backward networks 
+
+Difference between biological and artificial neuron
