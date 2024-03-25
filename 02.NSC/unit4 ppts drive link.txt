@@ -1,0 +1,8 @@
+https://drive.google.com/drive/u/1/folders/12Oq4HcRcniW-93x1XwmxHcPmBFmQBNwb
+
+https://youtu.be/L76F7hOazUU - hash function based on cipher block chaining
+
+https://www.geeksforgeeks.org/types-of-digital-signature-attacks/ - attacks on ds and forgery
+
+https://youtu.be/wcSyOZJf7Hw?si=MeF7cPIBZLeud2Y-
+https://www.youtube.com/watch?v=EUK4_d_ixoY&t=75s - elagmal ds

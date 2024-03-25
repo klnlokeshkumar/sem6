@@ -1,0 +1,10 @@
+1)PGP
+2)Kerberos
+3)Symmetric key distribution by symmetric and asymmetric approaches
+4)HMAC
+5)SHA
+6)TLS and SSL
+7)MALICIOUS SOFTWARE TYPES
+8)NIST ,ELGAMAL,ECC DIGITAL SIGNATURE
+9)IPSEC  architecture
+10)cloud concepts and security
