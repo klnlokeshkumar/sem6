@@ -1,0 +1,12 @@
+- Explain about Storage System for big data? 
+- Explain about Storage Mechanism for Big Data?
+- Explain about architecture of Big data?
+- Explain about the tools for Big Data Mining and Analysis?
+- What is data analysis and how traditional data analysis differs from Big data analytics?
+- Explain the following
+- a) Applications in Health care
+- b) Applications in Enterprises
+- c) Applications in IoT
+- Explain the following
+- a) Network Data analysis
+- b) Web data analysis
