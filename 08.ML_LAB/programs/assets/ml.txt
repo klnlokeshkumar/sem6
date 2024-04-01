@@ -1,0 +1,5 @@
+ML enables systems to learn without explicit programming.
+Supervised is labeled data and Unsupervised is unlabeled data.
+Types: classification, regression, clustering, reinforcement learning.
+Success factors are data quality, algorithm choice, feature engineering.
+Applications are healthcare, finance, marketing, autonomous vehicles, NLP.
