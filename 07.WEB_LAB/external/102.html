@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>current date time: </h1> 
+    <p id="currentDateTime"></p>
+    <h1>Last visited date time: </h1>
+    <p id="lastVisitedDateTime"></p>
+    <script>
+        var currentDate = new Date();
+        var currentDateTime = currentDate.toLocaleString();
+        var lastVisitedDateTime = localStorage.getItem("lastVisitedDateTime");
+        if (lastVisitedDateTime) {
+            document.getElementById("lastVisitedDateTime").innerHTML = lastVisitedDateTime;
+        }
+        document.getElementById("currentDateTime").innerHTML = currentDateTime;
+        localStorage.setItem("lastVisitedDateTime", currentDateTime);
+    </script>
+</body>
+
+</html>
