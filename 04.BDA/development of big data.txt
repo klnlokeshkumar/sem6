@@ -1,0 +1,19 @@
+Certainly, here's a more detailed elaboration on the key points for each year mentioned:
+
+- Late 1970s: The concept of a "database machine" emerged in response to the increasing volume of data that traditional mainframe computer systems couldn't efficiently handle. This concept laid the groundwork for specialized technologies designed specifically for storing and analyzing data.
+
+- 1980s: As data continued to grow in volume, the limitations of single mainframe computer systems became apparent. In response, the idea of a "share nothing" parallel database system was proposed. This architecture relied on clusters of machines, each equipped with its own processor, storage, and disk. Teradata system, introduced during this time, was one of the pioneering examples of a successful commercial parallel database system.
+
+- June 2, 1986: A significant milestone was reached when Teradata delivered the first parallel database system capable of storing 1TB of data to Kmart. This event marked a significant advancement in the capability of data warehousing for large-scale retail companies in North America.
+
+- Late 1990s: Parallel database systems gained widespread recognition for their ability to efficiently handle large volumes of data. Their advantages in scalability and performance became evident, leading to increased adoption in various industries.
+
+- 2007: Jim Gray, a prominent figure in the database software field, introduced the concept of "The Fourth Paradigm" to address the challenges posed by managing massive amounts of data. Gray advocated for the development of new computing tools to effectively manage, visualize, and analyze such data.
+
+- June 2011: A seminal research report published by EMC/IDC introduced the concept of big data and its potential implications. This report generated significant interest and attention from both industry and academia, sparking a wave of investment and research in the field of big data analytics.
+
+- Over the past few years (presumably up to 2011): Major companies, including EMC, Oracle, IBM, Microsoft, Google, Amazon, and Facebook, among others, began investing in big data projects and acquisitions. Academic publications dedicated to big data research also increased, with notable issues from journals like Nature and Science.
+
+- March 2012: The Obama Administration announced a significant investment of USD 200 million in the Big Data Research and Development Initiative. This initiative aimed to foster innovation and advancement in big data technologies and applications.
+
+- July 2012: The Japan's ICT project emphasized the strategic importance of big data development at a national level. Additionally, the United Nations issued the "Big Data for Development" report, highlighting the ways in which governments could leverage big data to improve public service and protection efforts.

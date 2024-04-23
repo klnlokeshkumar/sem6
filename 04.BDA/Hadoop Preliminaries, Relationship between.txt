@@ -1,0 +1,72 @@
+Sure, here's a summary organized into key points and subheadings:
+
+### 2.4 Hadoop
+
+#### 2.4.1 Hadoop Preliminaries
+
+- **Origin and Development**: 
+  - Hadoop is a technology integral to big data solutions, encompassing data storage, processing, system management, and integration of modules.
+  - Originated from the Nutch project at Apache, developed by Doug Cutting and Mike Cafarella, Hadoop became an independent open-source project in 2006.
+  - Widely deployed by major internet enterprises like Yahoo and Facebook.
+
+- **Components**:
+  - **HDFS (Hadoop Distributed File System)**:
+    - Inspired by Google's DFS, HDFS is the storage layer for Hadoop, distributing data blocks across a cluster for parallel computing.
+    - Comprises a single NameNode for metadata management and multiple DataNodes for storing actual data.
+  - **MR Framework (MapReduce)**:
+    - Developed similar to Google's MapReduce.
+    - Consists of a JobTracker node for task distribution and TaskTracker nodes for task execution.
+    - Enables parallel processing of data stored in HDFS.
+
+- **Associated Technologies**:
+  - **Apache HBase**:
+    - Column-oriented storage similar to Google's Bigtable, serving as input/output for MR tasks and accessible via various APIs.
+  - **Pig Latin and Hive**:
+    - High-level languages for expressing big data processing tasks, making it easier to write MapReduce programs and queries, respectively.
+
+- **Supplementary Modules**:
+  - **Zookeeper and Chukwa**:
+    - Manage and monitor distributed applications in Hadoop, providing configuration maintenance, distributed synchronization, and monitoring capabilities.
+  - **Sqoop**:
+    - Facilitates data transfer between structured data storage systems and Hadoop.
+  - **Mahout**:
+    - Data mining library executed on Hadoop using MapReduce, including core algorithms for collaborative filtering.
+
+- **Significance to Big Data**:
+  - **Adoption and Attention**:
+    - Hadoop's success is attributed to its distributed file system and MapReduce model, attracting increasing attention as a cornerstone of big data solutions.
+    - Leading big data enterprises offer commercial solutions based on Hadoop.
+
+- **Advantages for Big Data Management and Analysis**:
+  - **Expandability**:
+    - Allows hardware infrastructure expansion or shrinkage without altering data format, automatically redistributing data and adapting computing tasks.
+  - **Cost Efficiency**:
+    - Applies large-scale parallel computing to commercial servers, reducing the cost per TB for storage and accommodating growing data volumes.
+  - **Flexibility**:
+    - Handles diverse data types from various sources, enabling synthesis of data for comprehensive analysis.
+  - **Fault-Tolerance**:
+    - Offers high fault-tolerance, capable of recovering data and correcting errors caused by node failures or network issues during data analysis.
+
+
+
+
+Here's a summary of the relationship between Hadoop and big data, as described in the provided text:
+
+### 2.4.2 Relationship between Hadoop and Big Data
+
+- **Wide Industry Adoption**:
+  - Hadoop is extensively used in various big data applications across industries, such as spam filtering, network searching, clickstream analysis, and social recommendation systems.
+  - Yahoo utilizes Hadoop on 42,000 servers across four data centers to support its products and services, including searching and spam filtering. The cluster size is expected to increase to 10,000 nodes with the release of Hadoop 2.0.
+  - Facebook's Hadoop cluster is capable of processing 100 PB of data, with a daily growth rate of 0.5 PB as of November 2012.
+
+- **Commercial Support and Execution**:
+  - Several companies offer commercial execution and support for Hadoop, including Cloudera, IBM, MapR, EMC, and Oracle.
+
+- **Applications in Industrial Machinery and Systems**:
+  - Sensors deployed in modern industrial machinery and systems collect vast amounts of data for various purposes, such as environment monitoring and failure forecasting.
+  - Bahga and others proposed the CloudView framework, which utilizes Hadoop-based clusters for complex offline analysis of machine-generated data, complementing real-time analysis on local nodes.
+
+- **Bioinformatics and Biomedicine**:
+  - The exponential growth of genome data and the decreasing cost of sequencing have led to a data-driven transformation in bio-science and biomedicine.
+  - Gunarathne et al. employed cloud computing infrastructures and Hadoop-based data processing frameworks to run parallel bio-medicine applications, such as genome segment assembly and dimension reduction in chemical structure analysis.
+  - The study compared the performance of various frameworks in terms of efficiency, cost, and availability, highlighting the potential of parallel programming technologies like MapReduce for providing convenient services and reducing unnecessary costs in data-intensive research areas like bioinformatics.
